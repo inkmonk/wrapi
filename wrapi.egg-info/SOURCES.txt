@@ -1,0 +1,10 @@
+setup.py
+wrapi/__init__.py
+wrapi/core.py
+wrapi/resource.py
+wrapi.egg-info/PKG-INFO
+wrapi.egg-info/SOURCES.txt
+wrapi.egg-info/dependency_links.txt
+wrapi.egg-info/pbr.json
+wrapi.egg-info/requires.txt
+wrapi.egg-info/top_level.txt

@@ -3,9 +3,11 @@ from setuptools import setup
 setup(
     name='wrapi',
     version='0.0.1',
-    long_description="A generic API wrapper for python",
+    description='A generic REST API wrapper',
+    long_description="A generic REST API wrapper",
     packages=['wrapi'],
     include_package_data=True,
-    zip_safe=False,
-    install_requires=['requests>=2.6.2']
-)
+    install_requires=['requests>=2.6.2'],
+    license='MIT',
+    author='SuryaSankar',
+    author_email='suryashankar.m@gmail.com')

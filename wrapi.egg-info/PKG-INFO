@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: wrapi
+Version: 0.0.1
+Summary: A generic REST API wrapper
+Home-page: UNKNOWN
+Author: SuryaSankar
+Author-email: suryashankar.m@gmail.com
+License: MIT
+Description: A generic REST API wrapper
+Platform: UNKNOWN
